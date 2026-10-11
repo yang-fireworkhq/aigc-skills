@@ -1,0 +1,4 @@
+interface:
+  display_name: "MiniMax H3 Video"
+  short_description: "Generate and manage MiniMax H3 multimodal video tasks"
+  default_prompt: "Use $minimax-h3-video to generate a 15-second product video from my reference images."

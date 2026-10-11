@@ -1,0 +1,4 @@
+interface:
+  display_name: "BytePlus Seedance Video"
+  short_description: "Generate Seedance 2.0 or 2.5 videos from env credentials."
+  default_prompt: "Create a BytePlus Seedance video task from environment credentials and wait for the video URL."
